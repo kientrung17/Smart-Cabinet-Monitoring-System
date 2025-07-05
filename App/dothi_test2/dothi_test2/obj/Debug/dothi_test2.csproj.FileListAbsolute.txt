@@ -1,0 +1,42 @@
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\bin\Debug\dothi_test2.exe.config
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\bin\Debug\dothi_test2.exe
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\bin\Debug\dothi_test2.pdb
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.Form1.resources
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.Properties.Resources.resources
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.exe
+C:\Users\lenovo\source\repos\dothi_test2\dothi_test2\obj\Debug\dothi_test2.pdb
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\dothi_test2.exe.config
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\dothi_test2.exe
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\dothi_test2.pdb
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.AssemblyReference.cache
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.Properties.Resources.resources
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.GenerateResource.cache
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.csproj.CoreCompileInputs.cache
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.exe
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.pdb
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\ZedGraph.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\ZedGraph.xml
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\de\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\es\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\fr\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\hu\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\it\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\ja\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\pt\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\ru\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\sk\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\sv\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\tr\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_te.A42FF39A.Up2Date
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.Form2.resources
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\Nhap 7.exe
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\AxInterop.WMPLib.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\Interop.WMPLib.dll
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\Nhap 7.pdb
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\bin\Debug\Nhap 7.exe.config
+D:\DATN\learn C sharp\dothi_test2\dothi_test2\obj\Debug\dothi_test2.Form1.resources

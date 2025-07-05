@@ -1,0 +1,56 @@
+D:\C#\Nhap 7\Nhap 7\bin\Debug\Nhap 7.exe.config
+D:\C#\Nhap 7\Nhap 7\bin\Debug\Nhap 7.exe
+D:\C#\Nhap 7\Nhap 7\bin\Debug\Nhap 7.pdb
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.AssemblyReference.cache
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form1.resources
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Properties.Resources.resources
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.GenerateResource.cache
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.CoreCompileInputs.cache
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.exe
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.pdb
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form2.resources
+D:\C#\Nhap 7\Nhap 7\bin\Debug\Interop.WMPLib.dll
+D:\C#\Nhap 7\Nhap 7\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Interop.WMPLib.dll
+D:\C#\Nhap 7\Nhap 7\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.ResolveComReference.cache
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form3.resources
+D:\C#\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form4.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\Nhap 7.exe.config
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\Nhap 7.exe
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\Nhap 7.pdb
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\Interop.WMPLib.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\AxInterop.WMPLib.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.AssemblyReference.cache
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Interop.WMPLib.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\AxInterop.WMPLib.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.ResolveComReference.cache
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form1.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form2.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form3.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form4.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Properties.Resources.resources
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.GenerateResource.cache
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.CoreCompileInputs.cache
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.exe
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.pdb
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\dothi_test2.exe
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\ZedGraph.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\dothi_test2.pdb
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\dothi_test2.exe.config
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\ZedGraph.xml
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\de\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\es\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\fr\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\hu\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\it\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\ja\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\pt\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\ru\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\sk\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\sv\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\tr\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap 7.csproj.Up2Date
+D:\DATN\learn C sharp\Nhap 7\Nhap 7\obj\Debug\Nhap_7.Form5.resources

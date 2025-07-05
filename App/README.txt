@@ -1,0 +1,1 @@
+Chạy file "App final" để chạy toàn bộ phần mềm
